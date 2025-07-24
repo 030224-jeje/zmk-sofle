@@ -63,11 +63,11 @@
 
         layer_0 {
             bindings = <
-&none              &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &kp LEFT_GUI             &kp TAB        &kp C_PLAY            &kp TAB        &kp RIGHT_GUI                 &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &kp DELETE
-&none              &kp Q         &kp W      &kp E           &kp R                    &kp T          &kp LS(LG(NUMBER_2))  &kp SEMICOLON  &kp U                         &kp O            &kp Y      &kp Q          &none
-&mo 5              &kp A         &kp S      &kp D           &kp F                    &kp G          &kp C_PREVIOUS        &kp COMMA      &kp A                         &kp E            &kp I      &kp C          &mo 5
-&kp LA(LC(LSHFT))  &kp Z         &kp X      &kp C           &kp V                    &kp B          &kp C_NEXT            &kp MINUS      &kp PERIOD                    &kp SQT          &kp EQUAL  &kp FSLH       &kp RC(RA(RIGHT_SHIFT))
-&kp C_MUTE         &none         &kp Z      &kp R           &SandS LEFT_SHIFT SPACE  &lt 4 ENTER    &to 1                 &lt 4 ESCAPE   &SandS RIGHT_SHIFT BACKSPACE  &kp B            &kp GRAVE  &kp BACKSLASH
+&reset             &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4             &kp NUMBER_5    &kp C_PLAY            &kp NUMBER_6   &kp NUMBER_7                  &kp NUMBER_8  &kp NUMBER_9  &kp N0         &kp DELETE
+&none              &kp Q         &kp W         &kp E         &kp R                    &kp T           &kp LS(LG(NUMBER_2))  &kp SEMICOLON  &kp U                         &kp O         &kp Y         &kp Q          &none
+&mo 5              &kp A         &kp S         &kp D         &kp F                    &kp G           &kp C_PREVIOUS        &kp COMMA      &kp A                         &kp E         &kp I         &kp C          &mo 5
+&kp LA(LC(LSHFT))  &kp Z         &kp X         &kp C         &kp V                    &kp B           &kp C_NEXT            &kp MINUS      &kp PERIOD                    &kp SQT       &kp EQUAL     &kp FSLH       &kp RC(RA(RIGHT_SHIFT))
+&kp C_MUTE         &none         &kp Z         &kp R         &SandS LEFT_SHIFT SPACE  &lt 4 ENTER     &to 1                 &lt 4 ESCAPE   &SandS RIGHT_SHIFT BACKSPACE  &kp B         &kp GRAVE     &kp BACKSLASH
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
