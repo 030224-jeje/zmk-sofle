@@ -1,18 +1,18 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
   mac-base:
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-shift$$
-  - $$mdi:apple-keyboard-command$$
-  - $$mdi:keyboard-tab$$
+  - '&reset'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
   - PLAY
-  - $$mdi:keyboard-tab$$
-  - RIGHT GUI
-  - $$mdi:apple-keyboard-shift$$
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-option$$
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - {t: '0', s: )}
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Q
