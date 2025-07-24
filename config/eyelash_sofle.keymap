@@ -70,7 +70,6 @@
 &kp C_MUTE         &none         &kp Z         &kp R         &SandS LEFT_SHIFT SPACE  &lt 4 ENTER     &to 1                 &lt 4 ESCAPE  &SandS RIGHT_SHIFT BACKSPACE  &kp B         &kp GRAVE     &kp BACKSLASH
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
             display-name = "mac-base";
         };
 
