@@ -21,11 +21,11 @@ layers:
   - R
   - T
   - Sft+Gui+2
-  - {t: ;, s: ':'}
-  - U
-  - O
   - Y
-  - Q
+  - U
+  - I
+  - O
+  - P
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - number
   - A
@@ -34,11 +34,11 @@ layers:
   - F
   - G
   - PREVIOUS
-  - {t: ',', s: <}
-  - A
-  - E
-  - I
-  - C
+  - H
+  - J
+  - K
+  - L
+  - {t: ;, s: ':'}
   - number
   - Alt+Ctl+$$mdi:apple-keyboard-shift$$
   - Z
