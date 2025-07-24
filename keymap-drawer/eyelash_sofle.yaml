@@ -93,11 +93,11 @@ layers:
   - Q
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - number
+  - A
   - S
-  - N
-  - T
-  - H
-  - K
+  - D
+  - F
+  - G
   - PREVIOUS
   - {t: ',', s: <}
   - A
@@ -106,11 +106,11 @@ layers:
   - C
   - number
   - Alt+Ctl+$$mdi:apple-keyboard-shift$$
+  - Z
+  - X
+  - C
   - V
-  - W
-  - G
-  - M
-  - J
+  - B
   - $$mdi:skip-next$$
   - {t: '-', s: _}
   - .
