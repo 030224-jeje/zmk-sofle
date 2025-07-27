@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
   mac-base:
-  - '&reset'
+  - {t: '$$mdi:keyboard-esc$$', s: '`'}
   - '1'
   - '2'
   - '3'
@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - number
+  - $$mdi:progress-download$$
   - A
   - S
   - D
@@ -352,7 +352,7 @@ layers:
   - KP 9
   - '*'
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: held}
+  - {t: '$$mdi:minus-circle-outline$$', type: held alternate}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - KP 4
   - KP 5
@@ -364,7 +364,7 @@ layers:
   - KP 5
   - KP 6
   - {t: '-', s: _}
-  - {t: '$$mdi:minus-circle-outline$$', type: held alternate}
+  - {t: '$$mdi:minus-circle-outline$$', type: held}
   - Sft+$$mdi:apple-keyboard-option$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - KP 1
